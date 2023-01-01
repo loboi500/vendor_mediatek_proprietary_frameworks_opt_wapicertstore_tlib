@@ -1,0 +1,10 @@
+mtk_java_prebuilt_library {
+    jars: [
+        "WapiCertStore.jar",
+    ],
+    mtk_product_line: "tablet",
+    mtk_src_path: "vendor/mediatek/proprietary/frameworks/opt/wapicertstore",
+    mtk_type: "java_import",
+    name: "WapiCertStore",
+}
+
