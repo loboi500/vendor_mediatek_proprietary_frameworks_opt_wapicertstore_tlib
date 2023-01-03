@@ -1,0 +1,2 @@
+libwapi_cert_jni filter=lfs diff=lfs merge=lfs -text
+WapiCertStore filter=lfs diff=lfs merge=lfs -text
